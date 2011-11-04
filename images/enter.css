@@ -1,0 +1,147 @@
+BODY {
+	FONT: 12px Tahoma; COLOR: #333333
+}
+TD {
+	FONT: 12px Tahoma; COLOR: #333333
+}
+INPUT {
+	FONT: 12px Tahoma; COLOR: #333333
+}
+BUTTON {
+	FONT: 12px Tahoma; COLOR: #333333
+}
+SELECT {
+	FONT: 12px Tahoma; COLOR: #333333
+}
+TEXTAREA {
+	FONT: 12px Tahoma; COLOR: #333333
+}
+BODY {
+	BACKGROUND-IMAGE: url(../images/bg.jpg); MARGIN: 0px
+}
+FORM {
+	DISPLAY: inline
+}
+INPUT {
+	BEHAVIOR: url(images/input.htc)
+}
+TEXTAREA {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; SCROLLBAR-FACE-COLOR: #ffffff; BEHAVIOR: url(images/fade.htc); SCROLLBAR-HIGHLIGHT-COLOR: #c1c1bb; BORDER-LEFT: #999999 1px solid; SCROLLBAR-SHADOW-COLOR: #c1c1bb; SCROLLBAR-3DLIGHT-COLOR: #ebebe4; SCROLLBAR-ARROW-COLOR: #cacab7; SCROLLBAR-TRACK-COLOR: #f4f4f0; BORDER-BOTTOM: #999999 1px solid; SCROLLBAR-DARKSHADOW-COLOR: #ebebe4; BACKGROUND-COLOR: #ffffff
+}
+SELECT {
+	BACKGROUND-COLOR: #ffffff
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+UL {
+	MARGIN: 0px 0px 0px 25px; LIST-STYLE-TYPE: decimal
+}
+UL A {
+	MARGIN-LEFT: -15px
+}
+A {
+	FONT: 12px Tahoma; COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #008080; TEXT-DECORATION: underline
+}
+v\:* {
+	BEHAVIOR: url	 (#default#VML)
+}
+.rollover IMG {
+	BEHAVIOR: url(images/rollover.htc)
+}
+.name {
+	COLOR: #b0cd3d
+}
+.paddingTop {
+	PADDING-TOP: 5px
+}
+#libai A {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+#libai A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+#gy A {
+	COLOR: #679707; TEXT-DECORATION: none
+}
+#gy A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+#love A {
+	COLOR: #3399ff; TEXT-DECORATION: none
+}
+#love A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+#pic {
+	BEHAVIOR: url(images/pic.htc)
+}
+#Content {
+	TEXT-INDENT: 24px
+}
+#navpic {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px
+}
+#fCommend A:link {
+	COLOR: #ff8eb3; TEXT-DECORATION: none
+}
+#fCommend A:visited {
+	COLOR: #ff8eb3; TEXT-DECORATION: none
+}
+#fCommend A:hover {
+	COLOR: #e94385; TEXT-DECORATION: none
+}
+.hspace IMG {
+	MARGIN: 0px 3px
+}
+.navbar TD {
+	BACKGROUND-IMAGE: url(../images/main/link_bg.gif)
+}
+.navbar A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.navbar A:hover {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+.down_bg {
+	BACKGROUND: url(../images/down/d_4.gif) repeat-x; VERTICAL-ALIGN: top; TEXT-ALIGN: center
+}
+#TopNews TD {
+	COLOR: #3cacc5; TEXT-DECORATION: none
+}
+#TopNews A {
+	COLOR: #3cacc5; TEXT-DECORATION: none
+}
+#TopNews A:hover {
+	COLOR: #2e7d9c; TEXT-DECORATION: underline
+}
+#down3 A {
+	COLOR: #94d1e9; TEXT-DECORATION: none
+}
+#down3 A:hover {
+	COLOR: #41aed8; TEXT-DECORATION: underline
+}
+.login INPUT {
+	BORDER-RIGHT: #b4b4b4 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #b4b4b4 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; FONT: 12px Tahoma; BORDER-LEFT: #b4b4b4 1px solid; WIDTH: 80px; COLOR: #7c7c7c; PADDING-TOP: 1px; BORDER-BOTTOM: #b4b4b4 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #ffffff
+}
+.topic TD {
+	VERTICAL-ALIGN: top; BACKGROUND-COLOR: #f3f3f3
+}
+.bottom TD {
+	FONT-SIZE: 12px; COLOR: #3aedfc; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.bottom A {
+	FONT-SIZE: 12px; COLOR: #3aedfc; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.bottom DIV {
+	DISPLAY: inline; MARGIN: 0px 12px; COLOR: #63c0d8
+}
+.center {
+	TEXT-ALIGN: center
+}
+.right {
+	TEXT-ALIGN: right
+}
